@@ -34,8 +34,8 @@ Follow the steps below to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/webview-getx-app.git
-cd webview-getx-app
+git clone https://github.com/uveshmansuri/in_app_webview_full.git
+cd in_app_webview_full
 ```
 
 ### 2. Install Dependencies
